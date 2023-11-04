@@ -31,7 +31,10 @@
             text-align: center;
             margin: 20px auto;
         }
-        .result-item {
+        .result-item1 {
+            margin: 10px;
+        }
+        .result-item2 {
             margin: 10px;
         }
         .musich1{
@@ -46,6 +49,9 @@
 
 .audio{
     background-color: rgb(103, 112, 82);
+}
+.order{
+list-style: none;
 }
 
 .footer{
