@@ -1,9 +1,14 @@
+        .first{
+            color: rgb(53, 34, 104);
+            text-align: center;
+        }
+
         body {
             font-family: Arial, sans-serif;
         }
         header {
-            background-color: #333;
-            color: rgb(123, 21, 21);
+            background-color:  rgb(93, 102, 75);
+            color:  white;
             padding: 10px;
             text-align: center;
         }
@@ -14,12 +19,12 @@
         #search-input {
             padding: 10px;
             width: 300px;
-            border: 1px solid #333;
+            border: 1px solid #b6aaaa;
         }
         #search-button {
             padding: 10px 20px;
-            background-color: #333;
-            color: rgb(169, 44, 44);
+            background-color: #968787;
+            color: rgb(59, 58, 58);
             border: none;
         }
         #search-results {
@@ -29,5 +34,24 @@
         .result-item {
             margin: 10px;
         }
+        .musich1{
+            background-color:  rgb(69, 94, 58);    
+        }
+        .listsongs{
+            background-color:  rgb(103, 112, 82);
+            color: rgb(9, 20, 54);
+            list-style: none;
+            
+        }
 
+.audio{
+    background-color: rgb(103, 112, 82);
+}
 
+.footer{
+    text-align: center;
+    background-color: rgb(17, 17, 15);
+    color: white;
+    margin: 3px 5px;
+    border: 2px 3px;
+}
